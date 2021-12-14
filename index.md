@@ -2,3 +2,4 @@
 
 这是一个链接 [baidu](https://www.baidu.com)
  
+![这是图片](./壁纸1.jpg "Magic Gardens")
