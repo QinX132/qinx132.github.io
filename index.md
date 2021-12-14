@@ -1,5 +1,5 @@
 # 余泽斌的个人主页
 
-这是一个链接 [baidu](https://www.baidu.com)
+一个链接 [baidu](qinx132.github.io)
  
-![一张图片](./壁纸1.jpg "Magic Gardens")
+![一张图片](./壁纸1.jpg "pic")
